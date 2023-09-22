@@ -1,7 +1,7 @@
 👋- # Introductie & Contact Opnemen
 Hey, ik ben Luca! Je kan mij contacteren via discord --> lucaaanl
 
-💻- # Skills
+💻- ## Skills
 Ik heb veel ervaring met FiveM & Web Development. Ik beheers de volgende programmeertalen; Lua, HTML, Css, Javascript & Python. Je kan mij inhuren voor verschillende services, namelijk:
 - Development Hulp.
 - Een custom script laten schrijven.
