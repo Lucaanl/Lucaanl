@@ -1,7 +1,7 @@
 ### Hi, I'm Luca ✌
 
 ## I'm a developer
-- 🔭 I’m mainly working on FiveM projects
+- 🔭 I’m mainly working on FiveM and Web development projects
 - 📚 I’m always open for a task
 - 🎯 I'm planning on releasing more FiveM scripts in the future
 
