@@ -1,5 +1,6 @@
 ### Hi, I'm Luca ✌
 - 🔭 I’m mainly working on FiveM and Web development projects
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaanl&label=Profile%20views&color=0e75b6&style=flat" alt="lucaanl" /> </p>
 ### Contact me:
 
 <img align="left" alt="Discord" width="25px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> aculn<br>
